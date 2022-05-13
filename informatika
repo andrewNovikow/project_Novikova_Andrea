@@ -1,0 +1,12 @@
+ var l,k,ploshad,perimitr : real;
+begin
+ writeln('Площадь и периметр фигуры');
+ write('l >>');
+ readln(l);
+ write('k >>);
+ readln(k); 
+ perimitr:= (l+k)*2;
+ ploshad:= l*k
+ writeln('perimitr=' p:7:4);
+ writeln('ploshad=' s:7:4);
+end.
